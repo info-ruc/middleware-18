@@ -11,7 +11,7 @@ student_id（folder）
 
 2018-10-14
 
-# Submission
+# Submission Steps
 
 1. create account on github.com
 
